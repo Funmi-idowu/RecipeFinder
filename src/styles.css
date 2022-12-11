@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 15px;
+  display: flex;
+  color: white;
+  justify-content: space-evenly;
+  font-family: Franklin Gothic Medium;
+  background-color: rgb(118, 167, 118);
+  text-shadow: 3px 2px 2px rgb(36, 77, 36);
+}
+
+h2 {
+  font-family: Franklin Gothic Medium;
+  font-size: 200%;
+  padding: 15px;
+}
+
+h4 {
+  font-family: Franklin Gothic Medium;
+  text-decoration: underline;
+  font-size: 110%;
+}
+
+body {
+  background-color: beige;
+  margin: 0;
+}
+
+img {
+  width: 25%;
+  height: 100%;
+}
+
+button:hover {
+  width: auto;
+  height: auto;
+  font-size: 120%;
+  cursor: pointer;
+  text-align: center;
+  border: 1.5px solid black;
+  font-family: Franklin Gothic Medium;
+}
+
+#instructions {
+  font-family: Franklin Gothic Medium;
+  line-height: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#meal {
+  text-decoration: underline;
+  font-family: Franklin Gothic Medium;
+}
+
+#allRecipeInfo {
+  display: grid;
+  grid-template-columns: 25% 75%;
+}
+
+#space {
+  padding: 15px;
+}
