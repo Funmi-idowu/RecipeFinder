@@ -2,7 +2,7 @@
 
 Welcome to my Random Recipe Finder web app!
 
-Here you will find an assortment of recipes chosen for you at random when "Click Me!" button is clicked.
+Here you will find an assortment of recipes chosen for you at random when **"Click Me!"** button is clicked.
 
 This web app was designed using React for my CMSI 2021 Project 2
 
