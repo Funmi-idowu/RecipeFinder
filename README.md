@@ -1,4 +1,4 @@
-**Random Recipe Finder**
+##Random Recipe Finder##
 
 Welcome to my Random Recipe Finder web app!
 
